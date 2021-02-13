@@ -67,7 +67,7 @@ Executando
     $ yarn start # ou npm start
 
 ----
-## 🐱‍👤Autor
+##🐱‍👤Autor
 [Gabriel Araujo](https://github.com/araujogabriel77)
 
 💼 **Linkedin**: [_Gabriel Ferreira_ ](https://www.linkedin.com/in/araujogabriel77/)
@@ -75,6 +75,6 @@ Executando
 📩 **email**: araujogabrielocn@gmail.com
 
 ----
-## 📃License
+##📃License
 
 This project is licensed under the MIT License - see the  [LICENSE.md](./LICENSE.md)  file for details
